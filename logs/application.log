@@ -59,3 +59,9 @@
 {"level":"INFO","ts":"2025-04-10T19:16:03.132+0200","caller":"Authentication_Book_Managment_System/main.go:131","msg":"Starting server","port":"8080"}
 {"level":"INFO","ts":"2025-04-10T19:16:06.307+0200","caller":"Authentication_Book_Managment_System/main.go:142","msg":"Shutting down server..."}
 {"level":"INFO","ts":"2025-04-10T19:16:06.308+0200","caller":"Authentication_Book_Managment_System/main.go:152","msg":"Server exited properly"}
+{"level":"INFO","ts":"2025-06-04T20:37:18.617+0300","caller":"Authentication_Book_Managment_System/main.go:40","msg":"Connected to database successfully"}
+{"level":"INFO","ts":"2025-06-04T20:37:18.695+0300","caller":"Authentication_Book_Managment_System/main.go:46","msg":"Database schema synced successfully"}
+{"level":"INFO","ts":"2025-06-04T20:37:18.699+0300","caller":"Authentication_Book_Managment_System/main.go:131","msg":"Starting server","port":"8080"}
+{"level":"INFO","ts":"2025-06-04T20:43:00.608+0300","caller":"Authentication_Book_Managment_System/main.go:40","msg":"Connected to database successfully"}
+{"level":"INFO","ts":"2025-06-04T20:43:00.656+0300","caller":"Authentication_Book_Managment_System/main.go:46","msg":"Database schema synced successfully"}
+{"level":"INFO","ts":"2025-06-04T20:43:00.658+0300","caller":"Authentication_Book_Managment_System/main.go:131","msg":"Starting server","port":"8080"}
