@@ -1,3 +1,5 @@
 /.env
 linkedinPost.md
+/logs/*.log
 /logs/application.log
+*.log
